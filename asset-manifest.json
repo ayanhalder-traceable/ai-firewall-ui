@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-firewall-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/ai-firewall-ui/static/js/main.c896dc29.js",
+    "static/js/453.bbb876c4.chunk.js": "/ai-firewall-ui/static/js/453.bbb876c4.chunk.js",
+    "index.html": "/ai-firewall-ui/index.html",
+    "main.e6c13ad2.css.map": "/ai-firewall-ui/static/css/main.e6c13ad2.css.map",
+    "main.c896dc29.js.map": "/ai-firewall-ui/static/js/main.c896dc29.js.map",
+    "453.bbb876c4.chunk.js.map": "/ai-firewall-ui/static/js/453.bbb876c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c896dc29.js"
+  ]
+}
